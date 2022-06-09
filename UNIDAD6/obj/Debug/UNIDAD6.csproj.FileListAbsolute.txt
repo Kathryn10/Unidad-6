@@ -1,0 +1,7 @@
+F:\GITHUB\UNIDAD6\bin\Debug\UNIDAD6.exe.config
+F:\GITHUB\UNIDAD6\bin\Debug\UNIDAD6.exe
+F:\GITHUB\UNIDAD6\bin\Debug\UNIDAD6.pdb
+F:\GITHUB\UNIDAD6\obj\Debug\UNIDAD6.csproj.AssemblyReference.cache
+F:\GITHUB\UNIDAD6\obj\Debug\UNIDAD6.csproj.CoreCompileInputs.cache
+F:\GITHUB\UNIDAD6\obj\Debug\UNIDAD6.exe
+F:\GITHUB\UNIDAD6\obj\Debug\UNIDAD6.pdb
